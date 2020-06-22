@@ -1,0 +1,130 @@
+body{
+margin:0px;
+text-align: center;
+font-family: 'Merriweather', serif;
+
+}
+h1{
+  font-family: 'Sacramento',cursive;
+  font-size: 562.5%;
+}
+h2{
+  font-family: 'Sanchez', serif;
+}
+h3{
+  font-family:  'Sanchez', serif;
+  color: #2b580c;
+  line-height: 3;
+  font-size: 150%;
+  font-weight: normal;
+}
+hr{
+  border-top: 9px dotted #A2A2A2;
+  width: 4%;
+  margin: 80px auto;
+}
+
+.intro{
+font-family:  'Sanchez', serif;
+font-size: 200%;
+color:  #438a5e;
+font-weight: normal;
+
+}
+.greeting{
+  color: #2b580c;
+}
+.self-description{
+  color: #40514E;
+}
+.my-skills{
+  font-size: 200%;
+  font-weight: normal;
+}
+.topbox{
+  background-color: #f7fbe1;
+  margin: 0px;
+  text-align: center;
+  position: relative;
+  max-width: 500%;
+  height: auto;
+}
+.Header{
+color:  #438a5e;
+  padding-top: 100px;
+  margin: 0 auto 0 auto;
+}
+.top-cloud{
+  position: absolute;
+  left: 1100px;
+  display: block;
+  padding-top: 10px;
+}
+.mountain{
+  display: block;
+  position: absolute;
+  right: 600px;
+  top:200px
+}
+.bottom-cloud{
+  display: block;
+  position: absolute;
+  left: 500px;
+}
+.coding{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.cooking{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+}
+.middle-container{
+
+}
+.person{
+  padding-top: 20px;
+  max-width:10%;
+      height:auto;
+}
+.code{
+  width:19%;
+    margin-right: 30px;
+      float: left;
+}
+.cook{
+  width: 20%;
+  float: right;
+margin-left: 25px;
+}
+.Get-in-touch{
+  font-size: 200%;
+  font-weight:normal;
+}
+.bottom-container{
+  background-color:#f7fbe1;
+}
+.linkedin{
+  max-width: 2%;
+      height:auto;
+      padding: 20px;
+}
+.email{
+  max-width: 2%;
+      height:auto;
+}
+.twitter{
+  max-width: 2%;
+      height:auto;
+      padding: 20px;
+}
+.instagram{
+  max-width: 2%;
+      height:auto;
+      padding: 20px;
+}
+.copyright{
+  color: #888888;
+}
